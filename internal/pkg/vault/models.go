@@ -15,7 +15,7 @@
 package vault
 
 import (
-	"github.com/edgexfoundry/go-mod-secrets/v3/pkg/types"
+	"github.com/denniskertis/go-mod-secrets/v42/pkg/types"
 )
 
 const (

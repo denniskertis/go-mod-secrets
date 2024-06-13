@@ -23,8 +23,8 @@ import (
 	"context"
 	"fmt"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/v3/clients/logger"
-	"github.com/edgexfoundry/go-mod-secrets/v3/pkg/types"
+	"github.com/denniskertis/go-mod-core-contracts/v42/clients/logger"
+	"github.com/denniskertis/go-mod-secrets/v42/pkg/types"
 )
 
 type runtimetokenprovider struct{}
