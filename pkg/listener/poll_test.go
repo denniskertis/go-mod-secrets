@@ -24,9 +24,9 @@ import (
 	"testing"
 	"time"
 
-	"github.com/edgexfoundry/go-mod-secrets/v3/pkg"
-	"github.com/edgexfoundry/go-mod-secrets/v3/pkg/types"
-	"github.com/edgexfoundry/go-mod-secrets/v3/secrets"
+	"github.com/denniskertis/go-mod-secrets/v42/pkg"
+	"github.com/denniskertis/go-mod-secrets/v42/pkg/types"
+	"github.com/denniskertis/go-mod-secrets/v42/secrets"
 )
 
 const (

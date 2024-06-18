@@ -24,7 +24,7 @@ import (
 	"io"
 	"net/http"
 
-	"github.com/edgexfoundry/go-mod-core-contracts/v3/common"
+	"github.com/denniskertis/go-mod-core-contracts/v42/common"
 )
 
 // parameters structure for request method
